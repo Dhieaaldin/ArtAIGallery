@@ -1,0 +1,8 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g transform="scale(5)">
+    <path d="M20 5L30 10L20 15L10 10L20 5Z" fill="#6D28D9"/>
+    <path d="M30 10V20L20 25V15L30 10Z" fill="#8B5CF6"/>
+    <path d="M10 10V20L20 25V15L10 10Z" fill="#A78BFA"/>
+    <path d="M20 25L30 20L30 30L20 35L10 30V20L20 25Z" fill="#C4B5FD"/>
+  </g>
+</svg>
